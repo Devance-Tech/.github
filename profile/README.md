@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Coding Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Mobile+App+Solutions;Technical+Support+Excellence;Quality+%2B+Stability+%3D+Success)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=2500&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Full+Stack+Development;Mobile+App+Solutions.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/devancetech?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/devancetech)
 [![Projects](https://img.shields.io/badge/Active_Projects-50+-00D9FF?style=for-the-badge&logo=rocket)](https://github.com/devancetech)
@@ -102,22 +102,6 @@ We design software architectures that can handle growth, traffic spikes, and cha
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=flat-square&logo=github-actions&logoColor=white)
-
-</div>
-
-
-## 📊 **By The Numbers**
-
-<div align="center">
-
-| 🎯 **Metric** | 📈 **Achievement** |
-|:-------------:|:------------------:|
-| **Projects Delivered** | 500+ |
-| **Client Satisfaction** | 98.5% |
-| **Average Project Timeline** | 30% Faster |
-| **Code Coverage** | 95%+ |
-| **Support Response Time** | < 2 Hours |
-| **Years of Experience** | 10+ |
 
 </div>
 
