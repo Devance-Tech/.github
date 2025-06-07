@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=1000&pause=2500&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Full+Stack+Development;Mobile+App+Solutions.)](https://git.io/typing-svg)
+![Coding Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Mobile+App+Solutions;Technical+Support+Excellence;Quality+%2B+Stability+%3D+Success)
 
 [![GitHub followers](https://img.shields.io/github/followers/devancetech?style=for-the-badge&logo=github&color=00D9FF)](https://github.com/devancetech)
 [![Projects](https://img.shields.io/badge/Active_Projects-50+-00D9FF?style=for-the-badge&logo=rocket)](https://github.com/devancetech)
